@@ -12,6 +12,7 @@ Fizz Buzz is provided in the following Languages:
 - [Java](https://github.com/learnbasics/fizz-buzz/blob/master/Java.java)
 - [Javascript](https://github.com/learnbasics/fizz-buzz/blob/master/JavaScript.js)
 - [MIPS](https://github.com/learnbasics/fizz-buzz/blob/master/MIPS.s)
+- [Objective-C](https://github.com/learnbasics/fizz-buzz/blob/master/Objective-C.m)
 - [Perl](https://github.com/learnbasics/fizz-buzz/blob/master/Perl.pl)
 - [Python](https://github.com/learnbasics/fizz-buzz/blob/master/Python.py)
 - [R](https://github.com/learnbasics/fizz-buzz/blob/master/R.R)
